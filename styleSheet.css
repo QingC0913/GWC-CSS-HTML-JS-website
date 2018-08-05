@@ -1,0 +1,48 @@
+#video{
+  text-align: center;
+}
+
+h1{
+  color:#006400;
+  font-size: 35px;
+  text-align: center;
+  border-bottom: 2px dotted #228B22;
+}
+body{
+  background-color:#90EE90;
+}
+div {
+  text-align: center;
+}
+li {
+  color: black;
+  font-size: 20px;
+  text-align: left;
+}
+/* Add a black background color to the top navigation bar */
+.navigation {
+    overflow: hidden;
+    background-color: Limegreen;
+}
+
+#mePic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Style the links inside the navigation bar */
+.navigation a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navigation a:hover {
+    background-color: lime;
+    color: black;
